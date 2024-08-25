@@ -22,7 +22,7 @@ Esta é uma API de e-commerce desenvolvida com Flask, que inclui funcionalidades
 
    ```bash
    git clone https://github.com/anaclaraaraujo/ecommerce-rest-api.git
-   cd seurepositorio
+   cd ecommerce-rest-api
    ```
 
 2. Crie e ative um ambiente virtual:
