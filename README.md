@@ -21,7 +21,7 @@ Esta é uma API de e-commerce desenvolvida com Flask, que inclui funcionalidades
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/anaclaraaraujo/ecommerce-rest-api.git
    cd seurepositorio
    ```
 
